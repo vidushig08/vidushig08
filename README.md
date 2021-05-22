@@ -3,9 +3,9 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushig08" alt="Vidushi Gupta" /> </p>
 <!-- **vidushig08/vidushig08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-- 🔭 I’m currently working on **Blockchain, Web Development**
+- 🔭 I’m currently working on **Blockchain and Web Development**
 - 🌱 I’m currently learning **Backend Development and Competitive Programming**
-- 👯 I’m looking to collaborate on Web Development projects
+- 👯 I’m looking to collaborate on Web Development Projects
 - 🥅 2021 Goals: Build more projects using React
 - 💬 Ask me about Web Development
 - 😄 Pronouns: **She/Her**
