@@ -65,6 +65,9 @@
   <a href="mailto:vidushig08@gmail.com" target="_blank">
     <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Vidushi| Gmail" width="40px" >
   </a>
+  <a href="https://github.com/vidushig08" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/github.svg" target="_blank" alt="Vidushi| Gmail" width="40px" >
+  </a>
  <br/>
 </div>
 
