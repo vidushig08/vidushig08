@@ -8,10 +8,10 @@
 - 👯 I’m looking to collaborate on Web Development projects
 - 🥅 2021 Goals: Build more projects using React
 - 💬 Ask me about Web Development
-- 📫 How to reach me: vidushig08@gmail.com
 - 😄 Pronouns: **She/Her**
 
 <!--
+- 📫 How to reach me: vidushig08@gmail.com
 - 👨‍💻 All of my projects are available at https://github.com/vidushig08 
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
