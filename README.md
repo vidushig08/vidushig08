@@ -1,4 +1,4 @@
-<h2 align="center"> Hi there 👋, I am Vidushi </h2>
+<h1 align="center"> Hi there 👋, I am Vidushi </h1>
 <h3 align="center"> A Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushig08" alt="Vidushi Gupta" /> </p>
 <!-- **vidushig08/vidushig08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
