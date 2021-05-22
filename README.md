@@ -45,19 +45,19 @@
   <br><br>
 </div>
 
-<p align="center"><b>Vidushi's Github Stats!</b></p>
+<h3 align="center"><b>Vidushi's Github Stats!</h3></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=vidushig08&&show_icons=true&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 
-<p align="center"><b>Most used languages.</b></p>
+<h3 align="center"><b>Most used languages:</h3></p>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vidushig08&layout=compact&hide_border=false&title_color=ffffff&text_color=daf7dc&icon_color=bb2acf&bg_color=191919">
 </p>
 
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
-  <img target="_blank" href="https://www.linkedin.com/in/vidushiguptaa/" alt="Vidushi | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
-  <img target="_blank" href="https://www.instagram.com/vidushiiguptaa" alt="Vidushi | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">
-  <img mailto:"vidushig08@gmail.com" alt="Vidushi| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg">
+  <img target="_blank" href="https://www.linkedin.com/in/vidushiguptaa/" alt="Vidushi | LinkedIn" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
+  <img target="_blank" href="https://www.instagram.com/vidushiiguptaa" alt="Vidushi | Instagram" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">
+  <img mailto:"vidushig08@gmail.com" alt="Vidushi| Gmail" width="40px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg">
   <br/>
 </div>
 
