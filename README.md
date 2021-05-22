@@ -53,9 +53,9 @@
 
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
-  [<img align="left" alt="Vidushi | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />](https://www.linkedin.com/in/vidushiguptaa/)
-  [<img align="left" alt="Vidushi | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />](https://www.instagram.com/vidushiiguptaa)
-  [<img align="left" alt="Vidushi| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />](mailto:vidushig08@gmail.com)
+  <img align="left" alt="Vidushi | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />(https://www.linkedin.com/in/vidushiguptaa/)
+  <img align="left" alt="Vidushi | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />(https://www.instagram.com/vidushiiguptaa)
+  <img align="left" mailto:"vidushig08@gmail.com" alt="Vidushi| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
   <br/>
 </div>
 
