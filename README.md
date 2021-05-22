@@ -1,4 +1,5 @@
-<h1 align="center"> Hi there 👋, I am Vidushi </h1>
+<h1 align="center"> Hi there
+  <code><img src = "https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif"></code>, I am Vidushi </h1>
 <h3 align="center"> A Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushig08" alt="Vidushi Gupta" /> </p>
 <!--
