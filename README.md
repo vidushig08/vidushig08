@@ -2,7 +2,7 @@
 <h3 align="center"> A Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushig08" alt="Vidushi Gupta" /> </p>
 <!-- **vidushig08/vidushig08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-<div align="center">
+
 - 🔭 I’m currently working on **Blockchain, Web Development**
 - 🌱 I’m currently learning **Backend Development and Competitive Programming**
 - 👯 I’m looking to collaborate on Web Development projects
@@ -16,7 +16,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
-</div>
+
 
 <h3 align="center"> Languages & Tools 🛠 💻</h3>
 <div align="center">
