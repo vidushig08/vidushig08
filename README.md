@@ -2,7 +2,7 @@
 <h3 align="center"> A Front End Web Developer </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vidushig08" alt="Vidushi Gupta" /> </p>
 <!-- **vidushig08/vidushig08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-
+<div align="center">
 - 🔭 I’m currently working on **Blockchain, Web Development**
 - 🌱 I’m currently learning **Backend Development and Competitive Programming**
 - 👯 I’m looking to collaborate on Web Development projects
@@ -16,6 +16,7 @@
 - 🤔 I’m looking for help with ...
 - ⚡ Fun fact: ...
 -->
+</div>
 
 <h3 align="center"> Languages & Tools 🛠 💻</h3>
 <div align="center">
@@ -54,9 +55,9 @@
 
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
-  <img align="left" target="_blank" href="https://www.linkedin.com/in/vidushiguptaa/" alt="Vidushi | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" />
-  <img align="left" target="_blank" href="https://www.instagram.com/vidushiiguptaa" alt="Vidushi | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" />
-  <img align="left" mailto:"vidushig08@gmail.com" alt="Vidushi| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" />
+  <img target="_blank" href="https://www.linkedin.com/in/vidushiguptaa/" alt="Vidushi | LinkedIn" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg">
+  <img target="_blank" href="https://www.instagram.com/vidushiiguptaa" alt="Vidushi | Instagram" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg">
+  <img mailto:"vidushig08@gmail.com" alt="Vidushi| Gmail" width="35px" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg">
   <br/>
 </div>
 
