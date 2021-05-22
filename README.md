@@ -56,10 +56,14 @@
 <h3 align="center"> Connect with me:</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/vidushiguptaa/" target="_blank">
-    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg"alt="Vidushi | LinkedIn" width="40px" >
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/linkedin.svg" target="_blank" alt="Vidushi | LinkedIn" width="40px" >
   </a>
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank" href="https://www.instagram.com/vidushiiguptaa" alt="Vidushi | Instagram" width="40px" >
-  <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" href="mailto:vidushig08@gmail.com" alt="Vidushi| Gmail" width="40px" >
-  <br/>
+  <a href="https://www.instagram.com/vidushiiguptaa" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/instagram.svg" target="_blank"  alt="Vidushi | Instagram" width="40px" >
+  </a>
+  <a href="mailto:vidushig08@gmail.com" target="_blank">
+    <img src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/gmail.svg" target="_blank" alt="Vidushi| Gmail" width="40px" >
+  </a>
+ <br/>
 </div>
 
