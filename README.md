@@ -1,5 +1,5 @@
-### Hi there 👋, I am Vidushi
-#### A Front End Web Developer
+## Hi there 👋, I am Vidushi
+### A Front End Web Developer
 
 <!--
 **vidushig08/vidushig08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
